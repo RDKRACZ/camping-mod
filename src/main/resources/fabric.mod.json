@@ -14,8 +14,9 @@
   ],
   "accessWidener": "camping.accesswidener",
   "contact": {
-    "homepage": "https://simplycmd.github.io/camping-mod/",
-    "sources": "https://github.com/SimplyCmd/camping-mod"
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/simply-camping",
+    "sources": "https://github.com/SimplyCmd/camping-mod",
+    "issues": "https://github.com/SimplyCmd/camping-mod/issues"
   },
 
   "license": "MIT",
@@ -39,7 +40,5 @@
     "fabric": "*",
     "minecraft": "1.17.x",
     "java": ">=16"
-  },
-  "suggests": {
   }
 }
